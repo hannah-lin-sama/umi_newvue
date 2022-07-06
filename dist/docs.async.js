@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[163],{16884:function(i,t,n){n.r(t),n.d(t,{default:function(){return d}});var s=n(95393),e=(0,s._)("p",null,"This is umi docs.",-1),r=[e];function u(h,a){return(0,s.wg)(),(0,s.iD)("div",null,r)}var o=n(89979);const c={};var d=(0,o.Z)(c,[["render",u]])}}]);
